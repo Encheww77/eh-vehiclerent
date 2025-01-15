@@ -5,3 +5,7 @@
 ![image](https://github.com/user-attachments/assets/ba6bf7d9-f75f-4f74-bad6-b4a48abaffc5)
 
 Hello guys, this is a fivem qb-core script for vehicle rent. Hope you like it!
+
+# Dependencies
+
+ox_lib
