@@ -23,22 +23,6 @@ Config.Locations = {
     },
 
     {
-        name = "Cayo Perico",
-        coords = vector3(4496.81, -4517.86, 4.41),
-        npc = {
-            model = "a_m_y_business_03",
-            coords = vector4(4496.81, -4517.86, 4.41-1, 20.98),
-            scenario = "WORLD_HUMAN_CLIPBOARD"
-        },
-        vehicles = {
-            { model = "ec350f", label = "GasGas EC350F", price = 1000 }
-        },
-        spawnPoints = {
-            vector4(4496.6, -4509.06, 4.19, 286.56)
-        }
-    },
-
-    {
         name = "Downtown Rental",
         coords = vector3(219.75, -809.98, 30.68),
         npc = {
